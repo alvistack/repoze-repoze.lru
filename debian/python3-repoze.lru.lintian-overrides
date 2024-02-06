@@ -1,0 +1,4 @@
+python3-repoze.lru: copyright-without-copyright-notice
+python3-repoze.lru: initial-upload-closes-no-bugs
+python3-repoze.lru: no-manual-page
+python3-repoze.lru: zero-byte-file-in-doc-directory
