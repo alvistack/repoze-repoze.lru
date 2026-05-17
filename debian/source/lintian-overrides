@@ -1,0 +1,5 @@
+python-repoze.lru source: file-without-copyright-information
+python-repoze.lru source: no-debian-changes
+python-repoze.lru source: source-contains-prebuilt-windows-binary
+python-repoze.lru source: source-is-missing
+python-repoze.lru source: source-package-encodes-python-version
